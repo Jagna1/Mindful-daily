@@ -74,7 +74,7 @@ ograniczenia przetwarzania
 
 wniesienia sprzeciwu
 
-W tym celu skontaktuj się z nami: kontakt@mindfuldaily.app
+W tym celu skontaktuj się z nami.
 
 8. Usunięcie konta i danych
 
