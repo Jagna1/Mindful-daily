@@ -50,6 +50,22 @@ Stripe – obsługa płatności i subskrypcji
 
 Resend – wysyłka wiadomości e-mail
 
+ElevenLabs – generowanie mowy (text-to-speech) dla prowadzenia głosowego medytacji (elevenlabs-tts edge function)
+
+Google OAuth (przez Lovable Cloud) – logowanie przez konto Google
+
+Web Push (VAPID) – powiadomienia push w przeglądarce (klucze VAPID)
+
+Podsumowując pełną listę zewnętrznych dostawców:
+
+Dostawca	Zastosowanie
+Lovable Cloud	Infrastruktura, backend, baza danych, auth
+Stripe	Płatności i subskrypcje
+Resend	Wysyłka e-mail
+ElevenLabs	Synteza mowy (TTS)
+Google	Logowanie OAuth
+Web Push API	Powiadomienia push (VAPID)
+
 Dostawcy ci przetwarzają dane zgodnie z obowiązującymi przepisami i własnymi politykami prywatności.
 
 5. Płatności
