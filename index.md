@@ -1,5 +1,5 @@
 
-Polityka Prywatności – Mindful Daily
+Polityka Prywatności – OddechDnia
 
 Ostatnia aktualizacja: 01.02.2026
 
